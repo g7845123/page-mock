@@ -1,0 +1,2 @@
+1. Udacity images: page-mock.png and mug.png ( https://www.udacity.com/ )
+2. Bootstrap Framework ( http://getbootstrap.com/ )
